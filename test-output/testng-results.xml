@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-06T23:01:50 IST" name="Suite" finished-at="2022-12-06T23:02:34 IST" duration-ms="43325">
+    <groups>
+    </groups>
+    <test started-at="2022-12-06T23:01:50 IST" name="Test" finished-at="2022-12-06T23:02:34 IST" duration-ms="43325">
+      <class name="test.Verifylifeinsurance">
+        <test-method is-config="true" signature="lounchbrowser()[pri:0, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:01:50 IST" name="lounchbrowser" finished-at="2022-12-06T23:01:52 IST" duration-ms="1870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchbrowser -->
+        <test-method is-config="true" signature="POMobject()[pri:0, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:01:52 IST" name="POMobject" finished-at="2022-12-06T23:01:52 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMobject -->
+        <test-method is-config="true" signature="gotopolicybazar()[pri:0, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:01:52 IST" name="gotopolicybazar" finished-at="2022-12-06T23:02:18 IST" duration-ms="25280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotopolicybazar -->
+        <test-method signature="verifylifeinsurance()[pri:1, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:02:18 IST" name="verifylifeinsurance" finished-at="2022-12-06T23:02:30 IST" duration-ms="12642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylifeinsurance -->
+        <test-method is-config="true" signature="failscrenshot(org.testng.ITestResult)[pri:0, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:02:30 IST" name="failscrenshot" finished-at="2022-12-06T23:02:30 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifylifeinsurance status=SUCCESS method=Verifylifeinsurance.verifylifeinsurance()[pri:1, instance:test.Verifylifeinsurance@323b36e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failscrenshot -->
+        <test-method is-config="true" signature="gotopolicybazar()[pri:0, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:02:30 IST" name="gotopolicybazar" finished-at="2022-12-06T23:02:33 IST" duration-ms="2847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotopolicybazar -->
+        <test-method signature="verifyhealthinsurance()[pri:2, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:02:33 IST" name="verifyhealthinsurance" finished-at="2022-12-06T23:02:34 IST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhealthinsurance -->
+        <test-method is-config="true" signature="failscrenshot(org.testng.ITestResult)[pri:0, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:02:34 IST" name="failscrenshot" finished-at="2022-12-06T23:02:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyhealthinsurance status=SUCCESS method=Verifylifeinsurance.verifyhealthinsurance()[pri:2, instance:test.Verifylifeinsurance@323b36e0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failscrenshot -->
+        <test-method is-config="true" signature="POMobjectclosed()[pri:0, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:02:34 IST" name="POMobjectclosed" finished-at="2022-12-06T23:02:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMobjectclosed -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:test.Verifylifeinsurance@323b36e0]" started-at="2022-12-06T23:02:34 IST" name="closedriver" finished-at="2022-12-06T23:02:34 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- test.Verifylifeinsurance -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
